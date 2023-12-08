@@ -745,7 +745,7 @@ video {
 /* Jumbotron */
 .jumbotron {
   color: white;
-  background-image: url("../image/background-tire.jpg");
+  background-image: url("/source/image/banner/background-tire.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;

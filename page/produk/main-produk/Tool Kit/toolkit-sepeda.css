@@ -753,7 +753,7 @@ video {
 /* Jumbotron */
 .jumbotron {
   color: white;
-  background-image: url("../image/background-toolkit.png");
+  background-image: url("/source/image/banner/background-toolkit.png");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
