@@ -541,7 +541,7 @@ video {
 /* Jumbotron */
 .jumbotron {
   color: white;
-  background-image: url("/source/image/tes-background.png");
+  background-image: url("/source/image/banner/tes-background.png");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -634,17 +634,11 @@ video {
 }
  
 .color-choose input[type="radio"]#red + label span {
-  background-color: #C91524;
-}
-.color-choose input[type="radio"]#blue + label span {
-  background-color: #314780;
-}
-.color-choose input[type="radio"]#black + label span {
-  background-color: #323232;
+  background-color: #7F7574;
 }
  
 .color-choose input[type="radio"]:checked + label span {
-  background-image: url(/source/image/check-icn.svg);
+  background-image: url(/source/image/produk/check-icn.svg);
   background-repeat: no-repeat;
   background-position: center;
 }
