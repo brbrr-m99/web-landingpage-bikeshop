@@ -1,0 +1,293 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- Bootstrap CSS -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+  <!-- Font Awesome -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/brands.min.css"
+    integrity="sha512-8RxmFOVaKQe/xtg6lbscU9DU0IRhURWEuiI0tXevv+lXbAHfkpamD4VKFQRto9WgfOJDwOZ74c/s9Yesv3VvIQ=="
+    crossorigin="anonymous" referrerpolicy="no-referrer" />
+  <!-- Boxicon -->
+  <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+  <!-- Owl Caraousel -->
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.2.1/assets/owl.carousel.min.css" rel="stylesheet">
+  <!-- CSS -->
+  <link rel="stylesheet" href="/page/outlet/outlet.css">
+  <title>Paul Bike Shop</title>
+</head>
+
+<body>
+  <!-- Header Section -->
+  <header class="header" id="header">
+    <nav class="navbar container">
+      <a href="/main-index.html" class="brand">Paul Bike</a>
+      <div class="burger" id="burger">
+        <span class="burger-line"></span>
+        <span class="burger-line"></span>
+        <span class="burger-line"></span>
+      </div>
+      <div class="menu" id="menu">
+        <ul class="menu-inner">
+          <li class="menu-item"><a href="/main-index.html" class="menu-link">Home</a></li>
+          <li class="menu-item"><a href="#" class="menu-link">Services</a></li>
+          <li class="menu-item"><a href="/page/faq/faq.html" class="menu-link">FAQ</a></li>
+          <li class="menu-item"><a href="#" class="menu-link">Outlet</a></li>
+        </ul>
+      </div>
+      <a href="#" class="menu-block">Pesan Disini</a>
+    </nav>
+  </header>
+
+  <!-- Outlet -->
+  <section class="home">
+      <div class="description">
+        <h1 class="title">
+          <span class="gradient-text">Pelayanan Sepenuh Hati</span>
+        </h1>
+        <p class="paragraph">
+          Kami berkomitmen untuk memberikan Anda layanan dan produk 
+          terbaik dari merek-merek terkenal dunia. Dengan berbagai macam
+          sepeda, suku cadang, dan aksesorisnya yang kami tawarkan.
+        </p>
+      </div>
+
+      <div class="users-color-container">
+        <span class="item" style="--i: 1"></span>
+        <img
+          class="item"
+          src="https://img.freepik.com/premium-photo/cycling-helmet-medal-with-sports-man-after-race-as-winner-champion-medalist-outside-motivation-celebration-win-with-young-male-athlete-proud-reaching-target-goal_590464-94482.jpg"
+          style="--i: 2"
+          alt="" />
+        <span class="item" style="--i: 3"></span>
+        <img
+          class="item"
+          src="https://www.cardosystems.com/wp-content/uploads/2023/07/man-adjusting-bike-helmet.jpg"
+          style="--i: 4"
+          alt="" />
+
+        <img
+          class="item"
+          src="https://m.media-amazon.com/images/I/61B1Jc+uF+S._AC_UF894,1000_QL80_.jpg"
+          style="--i: 10"
+          alt="" />
+        <span class="item" style="--i: 11"></span>
+        <img class="item" src="https://media.karousell.com/media/photos/products/2022/3/15/serk_a21_adventure_rival_axs_g_1647315158_376544a3.jpg" style="--i: 12" alt="" />
+        <span class="item" style="--i: 5"></span>
+
+        <span class="item" style="--i: 9"></span>
+        <img class="item" src="https://images.immediate.co.uk/production/volatile/sites/21/2019/05/How-to-wear-a-bicycle-helmet-safely-1-28e69f6.jpg?quality=90&resize=620,413" style="--i: 8" alt="" />
+        <span class="item" style="--i: 7"></span>
+        <img class="item" src="https://img.freepik.com/premium-photo/young-cool-man-looking-happy-astonished-surprised-bike-repairman-concept_1194-373952.jpg" style="--i: 6" alt="" />
+      </div>
+    </section>
+  
+  <section class="section-team">
+		<div class="container">
+			<!-- Start Header Section -->
+			<div class="row justify-content-center text-center">
+				<div class="col-md-8 col-lg-6">
+					<div class="header-section">
+						<h2 class="title">Berkenalan Dengan <br>Crew Paul Bike</h2>
+					</div>
+				</div>
+			</div>
+			<!-- / End Header Section -->
+			<div class="row">
+				<!-- Start Single Person -->
+				<div class="col-sm-6 col-lg-6 col-xl-3">
+					<div class="single-person">
+						<div class="person-image">
+							<img src="/source/image/detail-services/team-1.jpg" alt="">
+							<span class="icon">
+                <i class="fa-solid fa-user-tie"></i>
+							</span>
+						</div>
+						<div class="person-info">
+							<h3 class="full-name">John Doe</h3>
+							<span class="speciality">Admin Sosial Media & Web</span>
+						</div>
+					</div>
+				</div>
+				<!-- / End Single Person -->
+				<!-- Start Single Person -->
+				<div class="col-sm-6 col-lg-6 col-xl-3">
+					<div class="single-person">
+						<div class="person-image">
+							<img src="/source/image/detail-services/team-2.jpg" alt="">
+							<span class="icon">
+                <i class="fa-solid fa-people-roof"></i>
+							</span>
+						</div>
+						<div class="person-info">
+							<h3 class="full-name">Robert Sanjaya</h3>
+							<span class="speciality">Manajer Outlet Paul Bike</span>
+						</div>
+					</div>
+				</div>
+				<!-- / End Single Person -->
+				<!-- Start Single Person -->
+				<div class="col-sm-6 col-lg-6 col-xl-3">
+					<div class="single-person">
+						<div class="person-image">
+							<img src="/source/image/detail-services/team-3.jpg" alt="">
+							<span class="icon">
+                <i class="fa-solid fa-bicycle"></i>
+							</span>
+						</div>
+						<div class="person-info">
+							<h3 class="full-name">Fahran Aidil</h3>
+							<span class="speciality">Mekanik & Spart Part</span>
+						</div>
+					</div>
+				</div>
+				<!-- / End Single Person -->
+				<!-- Start Single Person -->
+				<div class="col-sm-6 col-lg-6 col-xl-3">
+					<div class="single-person">
+						<div class="person-image">
+							<img src="/source/image/detail-services/team-4.jpg" alt="">
+							<span class="icon">
+                <i class="fa-solid fa-cash-register"></i>
+							</span>
+						</div>
+						<div class="person-info">
+							<h3 class="full-name">Ananda Lestari</h3>
+							<span class="speciality">Service Center & Cashier</span>
+						</div>
+					</div>
+				</div>
+				<!-- / End Single Person -->
+			</div>
+		</div>
+	</section>
+
+  <!--  Hubungi Kami -->
+  <section class="contact" id="contact">
+        <div class="container">
+            <div class="heading text-center">
+                <h1>Apabila membutuhkan informasi lebih lanjut <br>silakan isi form dibawah ini</h1>
+            </div>
+            <div class="row">
+                <div class="col-md-5">
+                    <div class="title">
+                        <h3>Detail Outlet</h3>
+                        <p>Toko Sepeda Paul Bike Jakarta</p>
+                    </div>
+                    <div class="content">
+                        <!-- Info-1 -->
+                        <div class="info">
+                            <i class="fas fa-mobile-alt"></i>
+                            <h4 class="d-inline-block">Telepon
+                                <br>
+                                <span>(+62) 816209645 , (+62) 85719811799</span></h4>
+                        </div>
+                        <!-- Info-2 -->
+                        <div class="info">
+                            <i class="far fa-envelope"></i>
+                            <h4 class="d-inline-block">Email
+                                <br>
+                                <span>12210234@bsi.ac.id</span></h4>
+                        </div>
+                        <!-- Info-3 -->
+                        <div class="info">
+                            <i class="fas fa-map-marker-alt"></i>
+                            <h4 class="d-inline-block">Lokasi<br>
+                                <span>Pulo Gebang No.50, Jakarta Timur</span></h4>
+                        </div>
+                        <!-- Info 4 -->
+                        <div class="info">
+                            <i class="fa-solid fa-clock"></i>
+                            <h4 class="d-inline-block">Jam Operasional <br>
+                                <span>Senin - Minggu : 07.00 - 20.00</span></h4>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-7">
+
+                    <form>
+                        <div class="row">
+                            <div class="col-sm-6">
+                                <input type="text" class="form-control" placeholder="Nama Kamu">
+                            </div>
+                            <div class="col-sm-6">
+                                <input type="email" class="form-control" placeholder="Email">
+                            </div>
+                            <div class="col-sm-12">
+                                <input type="text" class="form-control" placeholder="Subjek">
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <textarea class="form-control" rows="5" id="comment" placeholder="Isi Pesan"></textarea>
+                        </div>
+                        <button class="btn btn-block" type="submit">Kirim Pesan</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </section>
+
+  <!-- Site footer -->
+  <footer class="site-footer">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-12 col-md-6">
+          <h6>Tentang Kami</h6>
+          <p class="text-justify">
+            Beroperasi dari tahun 2021, Paul Bike adalah toko sepeda online modern dengan toko fisik (offline)
+            yang menyediakan layanan nomor satu di Indonesia. Website ini dirancang khusus secara
+            profesional untuk memudahkan Anda mencari sepeda atau perlengkapan yang Anda butuhkan</p>
+        </div>
+
+        <div class="col-xs-4 col-md-3">
+          <h6>Produk</h6>
+          <ul class="footer-links">
+            <li><a href="/page/produk/main-produk/Sepeda/sepeda.html">Sepeda</a></li>
+            <li><a href="/page/produk/main-produk/Frame/frame-sepeda.html">Frame & Fork</a></li>
+            <li><a href="/page/produk/main-produk/Tool Kit/toolkit-sepeda.html">Tool Kit</a></li>
+            <li><a href="/page/produk/main-produk/Aksesoris Sepeda/aksesoris-sepeda.html">Aksesoris Sepeda</a></li>
+          </ul>
+        </div>
+
+        <div class="col-xs-4 col-md-3">
+          <h6>PAUL BIKE STORE</h6>
+          <ul class="footer-links">
+            <li><a href="/page/outlet/outlet.html">Tentang Kami</a></li>
+            <li><a href="/page/artikel/main-artikel/Page_1/page-1.html">Artikel</a></li>
+            <li><a href="/page/biaya-service/biaya-service.html">Biaya Service</a></li>
+          </ul>
+        </div>
+      </div>
+      <hr>
+    </div>
+    <div class="container">
+      <div class="row">
+        <div class="col-md-8 col-sm-6 col-xs-12">
+          <p class="copyright-text">Copyright &copy; 2023 All Rights Reserved by
+            <a href="#">Mulia Brilian H.T</a>
+          </p>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <!-- Scroll To Top -->
+  <a href="#" class="gotopbtn">
+    <ion-icon name="arrow-up-outline"></ion-icon>
+  </a>
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
+    crossorigin="anonymous"></script>
+  <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+  <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+  <script src="/page/outlet/outlet.js"></script>
+</body>
+
+</html>

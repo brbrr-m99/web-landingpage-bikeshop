@@ -1,0 +1,200 @@
+`<!doctype html>
+<html lang="en">
+
+<head>
+  <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- Bootstrap CSS -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+  <!-- Font Awesome -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/brands.min.css"
+    integrity="sha512-8RxmFOVaKQe/xtg6lbscU9DU0IRhURWEuiI0tXevv+lXbAHfkpamD4VKFQRto9WgfOJDwOZ74c/s9Yesv3VvIQ=="
+    crossorigin="anonymous" referrerpolicy="no-referrer" />
+  <!-- Boxicon -->
+  <link href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css" rel='stylesheet'>
+  <!-- Carousel -->
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.2.1/assets/owl.carousel.min.css" rel="stylesheet">
+  <!-- CSS -->
+  <link rel="stylesheet" href="/page/artikel/main-artikel/Page_1/page-1.css">
+  <title>Paul Bike Shop</title>
+</head>
+
+<body>
+  <!-- Header Section -->
+  <header class="header" id="header">
+    <nav class="navbar container">
+      <a href="/main-index.html" class="brand">Paul Bike</a>
+      <div class="burger" id="burger">
+        <span class="burger-line"></span>
+        <span class="burger-line"></span>
+        <span class="burger-line"></span>
+      </div>
+      <div class="menu" id="menu">
+        <ul class="menu-inner">
+          <li class="menu-item"><a href="/main-index.html" class="menu-link">Home</a></li>
+          <li class="menu-item"><a href="#" class="menu-link">Services</a></li>
+          <li class="menu-item"><a href="/page/faq/faq.html" class="menu-link">FAQ</a></li>
+          <li class="menu-item"><a href="#" class="menu-link">Outlet</a></li>
+        </ul>
+      </div>
+      <a href="#" class="menu-block">Pesan Disini</a>
+    </nav>
+  </header>
+
+  <!--  Card Carousel -->
+<section class="bg-dark py-6 py-xl-6">
+  <div class="container overflow-hidden">
+    <div class="row gy-5">
+      <div class="col-12">
+        <div class="row align-items-center gy-3 gy-md-0 gx-xl-5">
+          <div class="col-xs-12 col-md-6">
+            <div class="img-wrapper position-relative hcf-transform">
+              <a href="#!">
+                <img class="img-fluid rounded w-100 hcf-of-cover hcf-op-center hcf-ih-250 hcf-ih-md-400" loading="lazy" src="https://www.backroads.com/sites/default/files/styles/pro_tips/public/imported/bike-repair-checklist_thumb.jpg.webp?itok=EjGp5jzf" alt="">
+              </a>
+            </div>
+          </div>
+          <div class="col-xs-12 col-md-6">
+            <div>
+              <p class="text-secondary mb-1">Nov 30, 2023</p>
+              <h2 class="h1 mb-3"><a class="link-light text-decoration-none" href="#!">Menghadapi Perbaikan Darurat Saat Bersepeda: Siapkan Hal ini!</a></h2>
+              <p class="mb-4">Perjalanan sepeda yang lancar dan tanpa gangguan adalah impian setiap pengendara sepeda . . . .</p>
+              <a class="btn btn-primary" href="#!" target="_self">Baca Selengkapnya</a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-12">
+        <div class="row align-items-center flex-row-reverse gy-3 gy-md-0 gx-xl-5">
+          <div class="col-xs-12 col-md-6">
+            <div class="img-wrapper position-relative hcf-transform">
+              <a href="#!">
+                <img class="img-fluid rounded w-100 hcf-of-cover hcf-op-center hcf-ih-250 hcf-ih-md-400" loading="lazy" src="https://genio.bike/wp-content/uploads/2023/02/Genio-ScappaGX2023-Gravel-Bike-1-1.jpg" alt="">
+              </a>
+            </div>
+          </div>
+          <div class="col-xs-12 col-md-6">
+            <div>
+              <p class="text-secondary mb-1">Nov 25, 2023</p>
+              <h2 class="h1 mb-3"><a class="link-light text-decoration-none" href="#!">Genio Scappa GX 2023: Sepeda Gravel Terbaru!</a></h2>
+              <p class="mb-4">Genio Scappa yang sudah lama banget goib kini hadir kembali dengan wujud dan spesifikasi yang ga main-main! Langsung
+              kita bahas . . . .</p>
+              <a class="btn btn-primary" href="#!" target="_self">Baca Selengkapnya</a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-12">
+        <div class="row align-items-center gy-3 gy-md-0 gx-xl-5">
+          <div class="col-xs-12 col-md-6">
+            <div class="img-wrapper position-relative hcf-transform">
+              <a href="#!">
+                <img class="img-fluid rounded w-100 hcf-of-cover hcf-op-center hcf-ih-250 hcf-ih-md-400" loading="lazy" src="https://genio.bike/wp-content/uploads/2023/09/genio-easton-moped-sepeda-listrik-electric-molis-motor-selis-pedal-assist.jpg" alt="">
+              </a>
+            </div>
+          </div>
+          <div class="col-xs-12 col-md-6">
+            <div>
+              <p class="text-secondary mb-1">Nov 20, 2023</p>
+              <h2 class="h1 mb-3"><a class="link-light text-decoration-none" href="#!">BBM Resmi Naik, Sepeda Listrik Mulai Diserbu!</a></h2>
+              <p class="mb-4">Berlaku sejak Sabtu (3/9/2022) pukul 14.30 WIB Pemerintah resmi mengumumkan kenaikan harga Bahan Bakar Minyak (BBM).
+              Kenaikan tersebut tentu berimbas pada para pengendara . . . .</p>
+              <a class="btn btn-primary" href="#!" target="_self">Baca Selengkapnya</a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-12">
+        <div class="row align-items-center flex-row-reverse gy-3 gy-md-0 gx-xl-5">
+          <div class="col-xs-12 col-md-6">
+            <div class="img-wrapper position-relative hcf-transform">
+              <a href="#!">
+                <img class="img-fluid rounded w-100 hcf-of-cover hcf-op-center hcf-ih-250 hcf-ih-md-400" loading="lazy" src="https://static-01.daraz.lk/p/6be8f5521ab0e5fb8cf054d4b22cec72.jpg" alt="">
+              </a>
+            </div>
+          </div>
+          <div class="col-xs-12 col-md-6">
+            <div>
+              <p class="text-secondary mb-1">Nov 15, 2023</p>
+              <h2 class="h1 mb-3"><a class="link-light text-decoration-none" href="#!">Bunyi Rantai Sepeda Mengganggu Saat Gowes</a></h2>
+              <p class="mb-4">Pernahkah kamu merasa terganggu dengan suara asing yang tiba-tiba muncul dari rantaimu ? Ternyata suara itu bisa jadi
+              menunjukkan adanya kesalahan posisi rantai . . . .</p>
+              <a class="btn btn-primary" href="#!" target="_self">Baca Selengkapnya</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+    <div class="pagination p12 bg-dark">
+      <ul>
+        <a class="is-active text-light" href="/page/artikel/main-artikel/Page_1/page-1.html"><li>1</li></a>
+        <a class="text-light" href="/page/artikel/main-artikel/Page_2/page-2.html"><li>2</li></a>
+        <a class="text-light" href="/page/artikel/main-artikel/Page_3/page-3.html"><li>3</li></a>
+        <a class="text-light" href="/page/artikel/main-artikel/Page_4/page-4.html"><li>4</li></a>
+        <a href="/page/artikel/main-artikel/Page_2/page-2.html"><li>Selanjutnya</li></a>
+      </ul>
+    </div>
+
+  <!-- Site footer -->
+  <footer class="site-footer">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-12 col-md-6">
+          <h6>Tentang Kami</h6>
+          <p class="text-justify">
+            Beroperasi dari tahun 2021, Paul Bike adalah toko sepeda online modern dengan toko fisik (offline) 
+            yang menyediakan layanan nomor satu di Indonesia. Website ini dirancang khusus secara 
+            profesional untuk memudahkan Anda mencari sepeda atau perlengkapan yang Anda butuhkan</p>
+        </div>
+
+        <div class="col-xs-4 col-md-3">
+          <h6>Produk</h6>
+          <ul class="footer-links">
+            <li><a href="/page/produk/main-produk/Sepeda/sepeda.html">Sepeda</a></li>
+            <li><a href="/page/produk/main-produk/Frame/frame-sepeda.html">Frame & Fork</a></li>
+            <li><a href="/page/produk/main-produk/Tool Kit/toolkit-sepeda.html">Tool Kit</a></li>
+            <li><a href="/page/produk/main-produk/Aksesoris Sepeda/aksesoris-sepeda.html">Aksesoris Sepeda</a></li>
+          </ul>
+        </div>
+
+        <div class="col-xs-4 col-md-3">
+          <h6>PAUL BIKE STORE</h6>
+          <ul class="footer-links">
+            <li><a href="/page/outlet/outlet.html">Tentang Kami</a></li>
+            <li><a href="#">Artikel</a></li>
+            <li><a href="/page/biaya-service/biaya-service.html">Biaya Service</a></li>
+          </ul>
+        </div>
+      </div>
+      <hr>
+    </div>
+    <div class="container">
+      <div class="row">
+        <div class="col-md-8 col-sm-6 col-xs-12">
+          <p class="copyright-text">Copyright &copy; 2023 All Rights Reserved by
+            <a href="#">Mulia Brilian H.T</a>
+          </p>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <!-- Scroll To Top -->
+  <a href="#" class="gotopbtn">
+    <ion-icon name="arrow-up-outline"></ion-icon>
+  </a>
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
+    crossorigin="anonymous"></script>
+  <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+  <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+  <script src="/page/artikel/main-artikel/Page_1/page-1.js"></script>
+</body>
+</html>

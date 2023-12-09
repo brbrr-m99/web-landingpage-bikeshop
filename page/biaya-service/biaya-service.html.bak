@@ -1,0 +1,182 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- Bootstrap CSS -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+  <!-- Font Awesome -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" />
+  <!-- Owl Carousel -->
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.2.1/assets/owl.carousel.min.css" rel="stylesheet">
+  <!-- Boxicon -->
+  <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+  <!-- CSS -->
+  <link rel="stylesheet" href="/page/biaya-service/biaya-service.css">
+  <title>Paul Bike Shop</title>
+</head>
+
+<body>
+  <!-- Header Section -->
+  <header class="header" id="header">
+    <nav class="navbar container">
+      <a href="/main-index.html" class="brand">Paul Bike</a>
+      <div class="burger" id="burger">
+        <span class="burger-line"></span>
+        <span class="burger-line"></span>
+        <span class="burger-line"></span>
+      </div>
+      <div class="menu" id="menu">
+        <ul class="menu-inner">
+          <li class="menu-item"><a href="/main-index.html" class="menu-link">Home</a></li>
+          <li class="menu-item"><a href="#" class="menu-link">Services</a></li>
+          <li class="menu-item"><a href="/page/faq/faq.html" class="menu-link">FAQ</a></li>
+          <li class="menu-item"><a href="#" class="menu-link">Outlet</a></li>
+        </ul>
+      </div>
+      <a href="#" class="menu-block">Pesan Disini</a>
+    </nav>
+  </header>
+  
+  <!-- Scroll To Top -->
+  <a href="#" class="gotopbtn">
+  <ion-icon name="arrow-up-outline"></ion-icon>
+  </a>
+
+  <!--  Biaya Services -->
+  <section class="card-services section">
+        <div class="card-services-header-section flex-direction-column-center">
+            <h1 class="title-page-services">Service Yang Dapat Anda Pilih</h1>
+            <p style="text-align:center;">Dilayanani oleh mekananik sepeda berpengalaman yang kami sediakan</p>
+        </div>
+        <section class="products-card-section">
+            <div class="products-cards-wrapper">
+                <div class="products-card-item">
+                    <div class="card-header">
+                        <img class="circle-effects" src="https://coihsan.github.io/iseng/assets/circle-01.svg" alt="">
+                        <img class="circle-effects2" src="https://coihsan.github.io/iseng/assets/circle-01.svg" alt="">
+                        <div class="card-background"></div>
+                        <img class="rocket" src="/source/image/produk/bike-service1.png" alt="">
+                    </div>
+                    <div class="card-content">
+                        <div class="title-card-header">
+                            <h4>Paket Service Ringan</h4>
+                            <div class="title-card-content">
+                                <span class="title-card-header-span-02 text-dark">RP</span>
+                                <h1 class="text-dark">75.000</h1>
+                            </div>
+                        </div>
+                        <div class="card-footer">
+                            <span class="card-price text-dark">* Harga Termasuk PPN 10% <p></p></span>
+                            <div class="card-price-button">
+                                <a class="click-detail" href="https://drive.google.com/file/d/1rm-Ugq8Aj07Er6oXsySVmMIZ8vigwBad/view?usp=drive_link"><i class='bx bx-detail'></i> Lihat detail</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="products-card-item">
+                    <div class="card-header">
+                        <img class="circle-effects" src="https://coihsan.github.io/iseng/assets/circle-01.svg" alt="">
+                        <img class="circle-effects2" src="https://coihsan.github.io/iseng/assets/circle-01.svg" alt="">
+                        <div class="card-background"></div>
+                        <img class="rocket" src="/source/image/produk/bike-service1.png" alt="">
+                    </div>
+                    <div class="card-content">
+                        <div class="title-card-header">
+                            <h4>Paket Service Standar</h4>
+                            <div class="title-card-content">
+                                <span class="title-card-header-span-02">RP</span>
+                                <h1 class="text-dark">150.000</h1>
+                            </div>
+                        </div>
+                        <div class="card-footer">
+                            <span class="card-price text-dark">* Harga Termasuk PPN 10% <p></p></span>
+                            <div class="card-price-button">
+                                <a class="click-detail" href="https://drive.google.com/file/d/1rm-Ugq8Aj07Er6oXsySVmMIZ8vigwBad/view?usp=drive_link"><i class='bx bx-detail'></i> Lihat detail</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="products-card-item">
+                    <div class="card-header">
+                        <img class="circle-effects" src="https://coihsan.github.io/iseng/assets/circle-01.svg" alt="">
+                        <img class="circle-effects2" src="https://coihsan.github.io/iseng/assets/circle-01.svg" alt="">
+                        <div class="card-background"></div>
+                        <img class="rocket" src="/source/image/produk/bike-service1.png" alt="">
+                    </div>
+                    <div class="card-content">
+                        <div class="title-card-header">
+                            <h4>Paket Service Total</h4>
+                            <div class="title-card-content">
+                                <span class="title-card-header-span-02">RP</span>
+                                <h1 class="text-dark">300.000</h1>
+                            </div>
+                        </div>
+                        <div class="card-footer">
+                            <span class="card-price text-dark">* Harga Termasuk PPN 10% <p></p></span>
+                            <div class="card-price-button">
+                                <a class="click-detail" href="https://drive.google.com/file/d/1rm-Ugq8Aj07Er6oXsySVmMIZ8vigwBad/view?usp=drive_link"><i class='bx bx-detail'></i> Lihat detail</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </section>
+    
+  <!-- Site footer -->
+  <footer class="site-footer">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-12 col-md-6">
+          <h6>Tentang Kami</h6>
+          <p class="text-justify">
+            Beroperasi dari tahun 2021, Paul Bike adalah toko sepeda online modern dengan toko fisik (offline) 
+            yang menyediakan layanan nomor satu di Indonesia. Website ini dirancang khusus secara 
+            profesional untuk memudahkan Anda mencari sepeda atau perlengkapan yang Anda butuhkan</p>
+        </div>
+
+        <div class="col-xs-4 col-md-3">
+          <h6>Produk</h6>
+          <ul class="footer-links">
+            <li><a href="/page/produk/main-produk/Sepeda/sepeda.html">Sepeda</a></li>
+            <li><a href="/page/produk/main-produk/Frame/frame-sepeda.html">Frame & Fork</a></li>
+            <li><a href="/page/produk/main-produk/Tool Kit/toolkit-sepeda.html">Tool Kit</a></li>
+            <li><a href="/page/produk/main-produk/Aksesoris Sepeda/aksesoris-sepeda.html">Aksesoris Sepeda</a></li>
+          </ul>
+        </div>
+
+        <div class="col-xs-4 col-md-3">
+          <h6>PAUL BIKE STORE</h6>
+          <ul class="footer-links">
+            <li><a href="/page/outlet/outlet.html">Tentang Kami</a></li>
+            <li><a href="/page/artikel/main-artikel/Page_1/page-1.html">Artikel</a></li>
+            <li><a href="/page/biaya-service/biaya-service.html">Biaya Service</a></li>
+          </ul>
+        </div>
+      </div>
+      <hr>
+    </div>
+    <div class="container">
+      <div class="row">
+        <div class="col-md-8 col-sm-6 col-xs-12">
+          <p class="copyright-text">Copyright &copy; 2023 All Rights Reserved by
+            <a href="#">Mulia Brilian H.T</a>
+          </p>
+        </div>
+      </div>
+    </div>
+  </footer>
+  
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
+    crossorigin="anonymous"></script>
+  <script src="/page/biaya-service/biaya-service.js"></script>
+  <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+  <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+</body>
+</html>

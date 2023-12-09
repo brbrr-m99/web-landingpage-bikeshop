@@ -1,0 +1,191 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- Bootstrap CSS -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+  <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" />
+  <!-- CSS -->
+  <link rel="stylesheet" href="/page/faq/faq.css">
+  <title>Paul Bike Shop</title>
+</head>
+
+<body>
+  <!-- Header Section -->
+  <header class="header" id="header">
+    <nav class="navbar container">
+      <a href="/main-index.html" class="brand">Paul Bike</a>
+      <div class="burger" id="burger">
+        <span class="burger-line"></span>
+        <span class="burger-line"></span>
+        <span class="burger-line"></span>
+      </div>
+      <div class="menu" id="menu">
+        <ul class="menu-inner">
+          <li class="menu-item"><a href="/main-index.html" class="menu-link">Home</a></li>
+          <li class="menu-item"><a href="#" class="menu-link">Services</a></li>
+          <li class="menu-item"><a href="/page/faq/faq.html" class="menu-link">FAQ</a></li>
+          <li class="menu-item"><a href="#" class="menu-link">Outlet</a></li>
+        </ul>
+      </div>
+      <a href="#" class="menu-block">Pesan Disini</a>
+    </nav>
+  </header>
+  
+  <!-- Scroll To Top -->
+  <a href="#" class="gotopbtn">
+  <ion-icon name="arrow-up-outline"></ion-icon>
+  </a>
+
+  <!--  FAQ -->
+  <h1 class="title">PEMBAYARAN</h1>
+
+  <div class="questions-container">
+        <div class="question">
+            <button>
+                <span>APA SAJA PILIHAN JASA KURIR YANG DISEDIAKAN PAUL BIKE ?</span>
+                <i class="fas fa-chevron-down d-arrow"></i>
+            </button>
+            <p>Anda dapat memilih menggunakan berbagai macam jasa kurir</p>
+        </div>
+
+        <div class="question">
+            <button>
+                <span>BERAPA ONGKOS KIRIM KE ALAMAT SAYA ?</span>
+                <i class="fas fa-chevron-down d-arrow"></i>
+            </button>
+            <p>Anda dapat mengecek ongkos secara otomatis dengan fitur yang telah sediakan dalam website atau melalui website jasa kurir yang Anda pilih</p>
+        </div>
+
+        <div class="question">
+            <button>
+                <span>APA SAJA PILIHAN PEMBAYARAN YANG DISEDIAKAN ?</span>
+                <i class="fas fa-chevron-down d-arrow"></i>
+            </button>
+            <p>Anda dapat melakukan pembayaran ke nomer rekening kami</p>
+        </div>
+    </div>
+</section>
+
+  <h1 class="title">SERVICE</h1>
+
+  <div class="questions-container">
+        <div class="question">
+            <button>
+                <span>BISAKAH SAYA MELAKUKAN SERVICE DI OUTLET DENGAN MEMBAWA SPART PART MILIK PRIBADI?</span>
+                <i class="fas fa-chevron-down d-arrow"></i>
+            </button>
+            <p>Boleh . Namun akan dikenakan biaya rakit dan tambahan lainnya, apabila spare part yang dibawa perlu ditambah</p>
+        </div>
+
+        <div class="question">
+            <button>
+                <span>APAKAH TAMBAH ANGIN BAN DAN PASANG OLI RANTAI ITU GRATIS ?</span>
+                <i class="fas fa-chevron-down d-arrow"></i>
+            </button>
+            <p>Gratis. Namun untuk pemasangan oli sesuai dengan yang Anda bawa ke toko atau yang Anda beli di toko kami</p>
+        </div>
+
+        <div class="question">
+            <button>
+                <span>APAKAH DIKENAKAN BIAYA UNTUK KONSULTASI ?</span>
+                <i class="fas fa-chevron-down d-arrow"></i>
+            </button>
+            <p>Layanan konsultasi ditoko termasuk Gratis. Namun apabila anda meminta rekomendasi build up sepeda, akan dikenakan biaya sebesar Rp 50.000 </p>
+        </div>
+
+        <div class="question">
+            <button>
+                <span>APAKAH SAYA BISA MELAKUKAN SERVICE DILUAR JAM OPERASIONAL</span>
+                <i class="fas fa-chevron-down d-arrow"></i>
+            </button>
+            <p>Untuk layanan itu, Anda dapat konfirmasi terlebih dahulu H-1 jam. Admin kami akan meminta alamat rumah dan dilakukan service disana</p>
+        </div>
+    </div>
+</section>
+
+<h1 class="title">GARANSI</h1>
+
+  <div class="questions-container">
+        <div class="question">
+            <button>
+                <span>BAGAIMANA CARA MELAKUKAN RETURN BARANG ?</span>
+                <i class="fas fa-chevron-down d-arrow"></i>
+            </button>
+            <p>Anda bisa konfirmasi terlebih dahulu ke outlet maupun chat Admin. Barang akan dicek terlebih dahulu dan akan direturn sekitar 1 hari</p>
+        </div>
+
+        <div class="question">
+            <button>
+                <span>APAKAH SEMUA BARANG NYA ITU ORIGINAL</span>
+                <i class="fas fa-chevron-down d-arrow"></i>
+            </button>
+            <p>Kami selalu mengutamakan kualitas dan originalitas barang yang kami jual. Sebelum dijual, kami selalu melakukan inspeksi terlebih dahulu</p>
+        </div>
+
+        <div class="question">
+            <button>
+                <span>BERAPA BIAYA TUKAR TAMBAH BARANG ?</span>
+                <i class="fas fa-chevron-down d-arrow"></i>
+            </button>
+            <p>Mohon maaf untuk itu kami tidak menyediakan nya. Adapun jika barang yang Anda beli ditoko kami masih dalam Garansi, dapat direturn kembali</p>
+        </div>
+    </div>
+</section>
+  <!-- Site footer -->
+  <footer class="site-footer">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-12 col-md-6">
+          <h6>Tentang Kami</h6>
+          <p class="text-justify">
+            Beroperasi dari tahun 2021, Paul Bike adalah toko sepeda online modern dengan toko fisik (offline) 
+            yang menyediakan layanan nomor satu di Indonesia. Website ini dirancang khusus secara 
+            profesional untuk memudahkan Anda mencari sepeda atau perlengkapan yang Anda butuhkan</p>
+        </div>
+
+        <div class="col-xs-4 col-md-3">
+          <h6>Produk</h6>
+          <ul class="footer-links">
+            <li><a href="/page/produk/main-produk/Sepeda/sepeda.html">Sepeda</a></li>
+            <li><a href="/page/produk/main-produk/Frame/frame-sepeda.html">Frame & Fork</a></li>
+            <li><a href="/page/produk/main-produk/Tool Kit/toolkit-sepeda.html">Tool Kit</a></li>
+            <li><a href="/page/produk/main-produk/Aksesoris Sepeda/aksesoris-sepeda.html">Aksesoris Sepeda</a></li>
+          </ul>
+        </div>
+
+        <div class="col-xs-4 col-md-3">
+          <h6>PAUL BIKE STORE</h6>
+          <ul class="footer-links">
+            <li><a href="/page/outlet/outlet.html">Tentang Kami</a></li>
+            <li><a href="/page/artikel/main-artikel/Page_1/page-1.html">Artikel</a></li>
+            <li><a href="/page/biaya-service/biaya-service.html">Biaya Service</a></li>
+          </ul>
+        </div>
+      </div>
+      <hr>
+    </div>
+    <div class="container">
+      <div class="row">
+        <div class="col-md-8 col-sm-6 col-xs-12">
+          <p class="copyright-text">Copyright &copy; 2023 All Rights Reserved by
+            <a href="#">Mulia Brilian H.T</a>
+          </p>
+        </div>
+      </div>
+    </div>
+  </footer>
+  
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
+    crossorigin="anonymous"></script>
+  <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+  <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+  <script src="/page/faq/faq.js"></script>
+</body>
+</html>

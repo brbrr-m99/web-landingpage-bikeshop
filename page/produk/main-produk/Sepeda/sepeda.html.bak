@@ -1,0 +1,346 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- Bootstrap CSS -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+  <!-- Font Awesome -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" />
+  <!-- Boxicon -->
+  <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+  <!-- CSS -->
+  <link rel="stylesheet" href="/page/produk/main-produk/Sepeda/sepeda.css">
+  <title>Paul Bike Shop</title>
+</head>
+
+<body>
+  <!-- Header Section -->
+  <header class="header" id="header">
+    <nav class="navbar container">
+      <a href="/main-index.html" class="brand">Paul Bike</a>
+      <div class="burger" id="burger">
+        <span class="burger-line"></span>
+        <span class="burger-line"></span>
+        <span class="burger-line"></span>
+      </div>
+      <div class="menu" id="menu">
+        <ul class="menu-inner">
+          <li class="menu-item"><a href="/main-index.html" class="menu-link">Home</a></li>
+          <li class="menu-item"><a href="#" class="menu-link">Services</a></li>
+          <li class="menu-item"><a href="/page/faq/faq.html" class="menu-link">FAQ</a></li>
+          <li class="menu-item"><a href="#" class="menu-link">Outlet</a></li>
+        </ul>
+      </div>
+      <a href="#" class="menu-block">Pesan Disini</a>
+    </nav>
+  </header>
+
+  <!-- Jumbotron -->
+  <div class="jumbotron jumbotron-fluid">
+    <div class="container">
+    </div>
+  </div>
+
+  <!-- Scroll To Top -->
+  <a href="#" class="gotopbtn">
+    <ion-icon name="arrow-up-outline"></ion-icon>
+  </a>
+
+  <!--  Promosi -->
+  <h1 class="detail text-center">Sepeda</h1>
+  <h3 class="detail-2 text-center">Rekomendasi fullbike sesuai keinginan-mu</h3>
+  <div class="promosi">
+    <li>
+      <section class="product-container product-1">
+        <div class="card">
+          <div class="photo"><img src="/source/image/produk/sepeda-01.png" alt="product" /></div>
+          <div class="content">
+            <h5 class="title">HARDTAIL MTB CANYON 27.5 </h5>
+            <h2 class="bg-title">CAN</h2>
+            <div class="feature size">
+              <h3>Size :</h3>
+              <span>27.5'</span>
+            </div>
+            <div class="feature color">
+              <h3>WARNA :</h3>
+              <span>Hijau</span>
+            </div>
+            <a href="/page/produk/detail-produk/Sepeda/produk-sepeda01/detail-sepeda01.html"><button class="btn-buy">Lihat Detail</button></a>
+          </div>
+        </div>
+      </section>
+    </li>
+
+    <li>
+      <section class="product-container product-2">
+        <div class="card">
+          <div class="photo"><img src="/source/image/produk/sepeda-02.png" alt="product" /></div>
+          <div class="content">
+            <h5 class="title">HARDTRAIL MERIDA MTB 27'5</h5>
+            <h2 class="bg-title">MER</h2>
+            <div class="feature size">
+              <h3>Size :</h3>
+              <span>27.5'</span>
+            </div>
+            <div class="feature color">
+              <h3>WARNA :</h3>
+              <span>Putih</span>
+            </div>
+            <a href="/page/produk/detail-produk/Sepeda/produk-sepeda02/detail-sepeda02.html"><button class="btn-buy">Lihat Detail</button></a>
+          </div>
+        </div>
+      </section>
+    </li>
+    <li>
+      <section class="product-container product-3">
+        <div class="card">
+          <div class="photo"><img src="/source/image/produk/sepeda-03.png" alt="product" /></div>
+          <div class="content">
+            <h5 class="title">HARDTRAIL COBE MTB 27'5</h5>
+            <h2 class="bg-title">COB</h2>
+            <div class="feature size">
+              <h3>Size :</h3>
+              <span>27.5'</span>
+            </div>
+            <div class="feature color">
+              <h3>WARNA :</h3>
+              <span>Silver</span>
+            </div>
+            <a href="/page/produk/detail-produk/Sepeda/produk-sepeda03/detail-sepeda03.html"><button class="btn-buy">Lihat Detail</button></a>
+          </div>
+        </div>
+      </section>
+    </li>
+    <li>
+      <section class="product-container product-4">
+        <div class="card">
+          <div class="photo"><img src="/source/image/produk/sepeda-04.png" alt="product" /></div>
+          <div class="content">
+            <h6 class="title">ROAD BIKE 700C CARBON WINSPACE 25 SPEED DISK BRAKET</h6>
+            <h2 class="bg-title">WIN</h2>
+            <div class="feature size">
+              <h3>Size :</h3>
+              <span>28 C'</span>
+            </div>
+            <div class="feature color">
+              <h3>WARNA :</h3>
+              <span>Putih</span>
+            </div>
+            <a href="/page/produk/detail-produk/Sepeda/produk-sepeda04/detail-sepeda04.html"><button class="btn-buy">Lihat Detail</button></a>
+          </div>
+        </div>
+      </section>
+    </li>
+    <li>
+      <section class="product-container product-5">
+        <div class="card">
+          <div class="photo"><img src="/source/image/produk/sepeda-05.png" alt="product" /></div>
+          <div class="content">
+            <h6 class="title">TWITTER 700C RETROSPEC 24 SPEED WITH CARBON FIBER DISK BRAKE</h6>
+            <h2 class="bg-title">CXG</h2>
+            <div class="feature size">
+              <h3>Size :</h3>
+              <span>28 C'</span>
+            </div>
+            <div class="feature color">
+              <h3>WARNA :</h3>
+              <span>Merah</span>
+            </div>
+            <a href="/page/produk/detail-produk/Sepeda/produk-sepeda05/detail-sepeda05.html"><button class="btn-buy">Lihat Detail</button></a>
+          </div>
+        </div>
+      </section>
+    </li>
+    <li>
+      <section class="product-container product-6">
+        <div class="card">
+          <div class="photo"><img src="/source/image/produk/sepeda-06.png" alt="product" /></div>
+          <div class="content">
+            <h6 class="title">SPECIALIZED CITIZEN 700C ALLOY 18 SPEED DISK BRAKE</h6>
+            <h2 class="bg-title">SPE</h2>
+            <div class="feature size">
+              <h3>Size :</h3>
+              <span>28 C'</span>
+            </div>
+            <div class="feature color">
+              <h3>WARNA :</h3>
+              <span>Hitam</span>
+            </div>
+            <a href="/page/produk/detail-produk/Sepeda/produk-sepeda06/detail-sepeda06.html"><button class="btn-buy">Lihat Detail</button></a>
+          </div>
+        </div>
+      </section>
+    </li>
+    <li>
+      <section class="product-container product-7">
+        <div class="card">
+          <div class="photo"><img src="/source/image/produk/sepeda-07.png" alt="product" /></div>
+          <div class="content">
+            <h6 class="title">FOLDING BIKE 20 INCH 7 SPEED NEW POLICE TEXAS 2022</h6>
+            <h2 class="bg-title">POL</h2>
+            <div class="feature size">
+              <h3>Size :</h3>
+              <span>22'</span>
+            </div>
+            <div class="feature color">
+              <h3>WARNA :</h3>
+              <span>Hitam</span>
+            </div>
+            <a href="/page/produk/detail-produk/Sepeda/produk-sepeda07/detail-sepeda07.html"><button class="btn-buy">Lihat Detail</button></a>
+          </div>
+        </div>
+      </section>
+    </li>
+    <li>
+      <section class="product-container product-8">
+        <div class="card">
+          <div class="photo"><img src="/source/image/produk/sepeda-08.png" alt="product" /></div>
+          <div class="content">
+            <h6 class="title">ELEMENT PIKES M-BAR 9 SPEED 18 INCH (NATURE SERIES)</h6>
+            <h2 class="bg-title">ELE</h2>
+            <div class="feature size">
+              <h3>Size :</h3>
+              <span>18'</span>
+            </div>
+            <div class="feature color">
+              <h3>WARNA :</h3>
+              <span>Kuning</span>
+            </div>
+            <a href="/page/produk/detail-produk/Sepeda/produk-sepeda08/detail-sepeda08.html"><button class="btn-buy">Lihat Detail</button></a>
+          </div>
+        </div>
+      </section>
+    </li>
+    <li>
+      <section class="product-container product-9">
+        <div class="card">
+          <div class="photo"><img src="/source/image/produk/sepeda-09.png" alt="product" /></div>
+          <div class="content">
+            <h6 class="title">DAHON MARINER D8 8 SPEED FOLDING BIKE 20 INCH</h6>
+            <h2 class="bg-title">FHN</h2>
+            <div class="feature size">
+              <h3>Size :</h3>
+              <span>20'</span>
+            </div>
+            <div class="feature color">
+              <h3>WARNA :</h3>
+              <span>Putih</span>
+            </div>
+            <a href="/page/produk/detail-produk/Sepeda/produk-sepeda09/detail-sepeda09.html"><button class="btn-buy">Lihat Detail</button></a>
+          </div>
+        </div>
+      </section>
+    </li>
+    <li>
+      <section class="product-container product-10">
+        <div class="card">
+          <div class="photo"><img src="/source/image/produk/sepeda-10.png" alt="product" /></div>
+          <div class="content">
+            <h5 class="title">KIDS BIKE UNITED YUKIKO 16 INCH</h5>
+            <h2 class="bg-title">YUK</h2>
+            <div class="feature color">
+              <h3>WARNA :</h3>
+              <span>Kuning</span>
+            </div>
+            <a href="/page/produk/detail-produk/Sepeda/produk-sepeda10/detail-sepeda10.html"><button class="btn-buy">Lihat Detail</button></a>
+          </div>
+        </div>
+      </section>
+    </li>
+    <li>
+      <section class="product-container product-11">
+        <div class="card">
+          <div class="photo"><img src="/source/image/produk/sepeda-11.png" alt="product" /></div>
+          <div class="content">
+            <h5 class="title">EPOK SERIES SKØG 16 INCH BIKE</h5>
+            <h2 class="bg-title">SKG</h2>
+            <div class="feature color">
+              <h3>WARNA :</h3>
+              <span>Orange</span>
+            </div>
+            <a href="/page/produk/detail-produk/Sepeda/produk-sepeda11/detail-sepeda11.html"><button class="btn-buy">Lihat Detail</button></a>
+          </div>
+        </div>
+      </section>
+    </li>
+    <li>
+      <section class="product-container product-12">
+        <div class="card">
+          <div class="photo"><img src="/source/image/produk/sepeda-12.png" alt="product" /></div>
+          <div class="content">
+            <h5 class="title">PINTO 14 INCH KIDS MOUNTAIN BIKE </h5>
+            <h2 class="bg-title">PIN</h2>
+            <div class="feature color">
+              <h3>WARNA :</h3>
+              <span>Hijau</span>
+            </div>
+            <a href="/page/produk/detail-produk/Sepeda/produk-sepeda12/detail-sepeda12.html"><button class="btn-buy">Lihat Detail</button></a>
+          </div>
+        </div>
+      </section>
+    </li>
+  </div>
+
+  <!-- Site footer -->
+  <footer class="site-footer">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-12 col-md-6">
+          <h6>Tentang Kami</h6>
+          <p class="text-justify">
+            Beroperasi dari tahun 2021, Paul Bike adalah toko sepeda online modern dengan toko fisik (offline)
+            yang menyediakan layanan nomor satu di Indonesia. Website ini dirancang khusus secara
+            profesional untuk memudahkan Anda mencari sepeda atau perlengkapan yang Anda butuhkan</p>
+        </div>
+
+        <div class="col-xs-4 col-md-3">
+          <h6>Produk</h6>
+          <ul class="footer-links">
+            <li><a href="/page/produk/main-produk/Sepeda/sepeda.html">Sepeda</a></li>
+            <li><a href="/page/produk/main-produk/Frame/frame-sepeda.html">Frame & Fork</a></li>
+            <li><a href="/page/produk/main-produk/Tool Kit/toolkit-sepeda.html">Tool Kit</a></li>
+            <li><a href="/page/produk/main-produk/Aksesoris Sepeda/aksesoris-sepeda.html">Aksesoris Sepeda</a></li>
+          </ul>
+        </div>  
+
+        <div class="col-xs-4 col-md-3">
+          <h6>PAUL BIKE STORE</h6>
+          <ul class="footer-links">
+            <li><a href="/page/outlet/outlet.html">Tentang Kami</a></li>
+            <li><a href="/page/artikel/main-artikel/Page_1/page-1.html">Artikel</a></li>
+            <li><a href="/page/biaya-service/biaya-service.html">Biaya Service</a></li>
+          </ul>
+        </div>
+      </div>
+      <hr>
+    </div>
+    <div class="container">
+      <div class="row">
+        <div class="col-md-8 col-sm-6 col-xs-12">
+          <p class="copyright-text">Copyright &copy; 2023 All Rights Reserved by
+            <a href="#">Mulia Brilian H.T</a>
+          </p>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <!-- Scroll To Top -->
+  <a href="#" class="gotopbtn">
+    <ion-icon name="arrow-up-outline"></ion-icon>
+  </a>
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
+    crossorigin="anonymous"></script>
+  <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+  <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+  <script src="/page/produk/main-produk/Sepeda/sepeda.js"></script>
+</body>
+
+</html>

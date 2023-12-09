@@ -1,0 +1,175 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- Bootstrap CSS -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+  <!-- Font Awesome -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" />
+  <!-- Boxicon -->
+  <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+  <!-- CSS -->
+  <link rel="stylesheet" href="/page/produk/detail-produk/Aksesoris Sepeda/produk-aksesoris02/aksesoris-02.css">
+  <title>Paul Bike Shop</title>
+</head>
+
+<body>
+  <!-- Header Section -->
+  <header class="header" id="header">
+    <nav class="navbar container">
+      <a href="/main-index.html" class="brand">Paul Bike</a>
+      <div class="burger" id="burger">
+        <span class="burger-line"></span>
+        <span class="burger-line"></span>
+        <span class="burger-line"></span>
+      </div>
+      <div class="menu" id="menu">
+        <ul class="menu-inner">
+          <li class="menu-item"><a href="/main-index.html" class="menu-link">Home</a></li>
+          <li class="menu-item"><a href="#" class="menu-link">Services</a></li>
+          <li class="menu-item"><a href="/page/faq/faq.html" class="menu-link">FAQ</a></li>
+          <li class="menu-item"><a href="#" class="menu-link">Outlet</a></li>
+        </ul>
+      </div>
+      <a href="#" class="menu-block">Pesan Disini</a>
+    </nav>
+  </header>
+
+  <!-- Jumbotron -->
+  <div class="jumbotron jumbotron-fluid">
+    <div class="container">
+    </div>
+  </div>
+
+  <!-- Scroll To Top -->
+  <a href="#" class="gotopbtn">
+    <ion-icon name="arrow-up-outline"></ion-icon>
+  </a>
+
+  <!--  Detail Produk -->
+  <main class="container detail-produk">
+ 
+  <!-- Left Column / Headphones Image -->
+  <div class="left-column">
+    <img data-image="black" class="active" src="/source/image/produk/entity-gloves.png" alt="">
+    <img data-image="green" src="/source/image/produk/aksesoris-2-2.png" alt="">
+  </div>
+ 
+ 
+  <!-- Right Column -->
+  <div class="right-column">
+ 
+    <!-- Product Description -->
+    <div class="product-description">
+      <span>PROTEKSI DIRI</span>
+      <h1>Entity Gloves</h1>
+      <p>Merupakan pilihan yang sangat tepat untuk menjaga tangan Anda tetap nyaman dan aman di saat Anda mengendarai sepeda Anda, di desaign dengan teknologi Breathability yang baik akan membuat kulit tangan Anda dapat terjaga kelembapannya.</p>
+      <p>Selain itu, produk ini telah menyematkan pula teknologi pull off system yang mempermudah Anda dalam menggunakan sarung tangan ini dan memory foam yang empuk namun tetap memiliki cengkraman yang kuat di bagian luar sarung tangan.</p>
+    </div>
+ 
+    <!-- Product Configuration -->
+    <div class="product-configuration">
+ 
+      <!-- Product Color -->
+      <div class="product-color">
+        <span>Color</span>
+ 
+        <div class="color-choose">
+          <div>
+            <input data-image="black" type="radio" id="black" name="color" value="black" checked>
+            <label for="black"><span></span></label>
+          </div>
+          <div>
+            <input data-image="green" type="radio" id="green" name="color" value="green">
+            <label for="green"><span></span></label>
+          </div>
+        </div>
+ 
+      </div>
+ 
+      <!-- Cable Configuration -->
+      <div class="cable-config">
+        <span>Ukuran</span>
+ 
+        <div class="cable-choose">
+          <button>S</button>
+          <button>L</button>
+          <button>XL</button>
+        </div>
+ 
+
+      </div>
+    </div>
+ 
+    <!-- Product Pricing -->
+    <div class="product-price">
+      <span class="text-white">Rp 360.000</span>
+      <a href="#" class="cart-btn">Beli Sekarang</a>
+    </div>
+  </div>
+</main>
+
+  <!-- Site footer -->
+  <footer class="site-footer">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-12 col-md-6">
+          <h6>Tentang Kami</h6>
+          <p class="text-justify">
+            Beroperasi dari tahun 2021, Paul Bike adalah toko sepeda online modern dengan toko fisik (offline)
+            yang menyediakan layanan nomor satu di Indonesia. Website ini dirancang khusus secara
+            profesional untuk memudahkan Anda mencari sepeda atau perlengkapan yang Anda butuhkan</p>
+        </div>
+
+        <div class="col-xs-4 col-md-3">
+          <h6>Produk</h6>
+          <ul class="footer-links">
+            <li><a href="/page/produk/main-produk/Sepeda/sepeda.html">Sepeda</a></li>
+            <li><a href="/page/produk/main-produk/Frame/frame-sepeda.html">Frame & Fork</a></li>
+            <li><a href="/page/produk/main-produk/Tool Kit/toolkit-sepeda.html">Tool Kit</a></li>
+            <li><a href="/page/produk/main-produk/Aksesoris Sepeda/aksesoris-sepeda.html">Aksesoris Sepeda</a></li>
+          </ul>
+        </div>
+
+        <div class="col-xs-4 col-md-3">
+          <h6>PAUL BIKE STORE</h6>
+          <ul class="footer-links">
+            <li><a href="/page/outlet/outlet.html">Tentang Kami</a></li>
+            <li><a href="/page/artikel/main-artikel/Page_1/page-1.html">Artikel</a></li>
+            <li><a href="/page/biaya-service/biaya-service.html">Biaya Service</a></li>
+          </ul>
+        </div>
+      </div>
+      <hr>
+    </div>
+    <div class="container">
+      <div class="row">
+        <div class="col-md-8 col-sm-6 col-xs-12">
+          <p class="copyright-text">Copyright &copy; 2023 All Rights Reserved by
+            <a href="#">Mulia Brilian H.T</a>
+          </p>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <!-- Scroll To Top -->
+  <a href="#" class="gotopbtn">
+    <ion-icon name="arrow-up-outline"></ion-icon>
+  </a>
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
+    crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js" charset="utf-8"></script>
+  <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+  <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+  <script src="/page/produk/detail-produk/Aksesoris Sepeda/produk-aksesoris02/aksesoris-02.js"></script>
+</body>
+
+</html>
