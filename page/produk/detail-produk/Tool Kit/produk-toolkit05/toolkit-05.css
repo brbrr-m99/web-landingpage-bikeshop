@@ -634,11 +634,7 @@ video {
 }
  
 .color-choose input[type="radio"]#black + label span {
-  background-color: #e0d13c;
-}
-
-.color-choose input[type="radio"]#green + label span {
-  background-color: #ffa72b;
+  background-color: #F4F4F2;
 }
 
 .color-choose input[type="radio"]:checked + label span {
