@@ -541,7 +541,7 @@ video {
 /* Jumbotron */
 .jumbotron {
   color: white;
-  background-image: url("/source/image/banner/tes-background.png");
+  background-image: url("https://cdn.outsideonline.com/wp-content/uploads/2016/07/13/velofix-main_h.jpg?crop=16:9&width=960&enable=upscale&quality=100");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;

@@ -541,7 +541,7 @@ video {
 /* Jumbotron */
 .jumbotron {
   color: white;
-  background-image: url("/source/image/banner/tes-background.png");
+  background-image: url("/source/image/banner/background-jumbotron.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
